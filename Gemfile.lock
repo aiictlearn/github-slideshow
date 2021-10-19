@@ -259,3 +259,5 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.2.9
+   
+   unicode-display_width (2.7.0)
